@@ -23,3 +23,7 @@ We welcome contributions from the open-source community. If you'd like to enhanc
 Issues:
 
 If you encounter any issues or have suggestions for improvement, please open an issue on this repository.
+
+
+Code is an experiment with (https://learn.deeplearning.ai/) webiste, 
+Please follow the instructions in above to match with the notebook file. Output was tested in (https://learn.deeplearning.ai/) website environment and video of how to use the notebook/chat bot is attached in .mov file in repo.
